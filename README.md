@@ -10,10 +10,6 @@ This repository contains the code and data for analyzing heart disease using mac
 - [Feature Selection](#feature-selection)
 - [Model Building](#model-building)
 - [Model Evaluation](#model-evaluation)
-- [Results](#results)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
